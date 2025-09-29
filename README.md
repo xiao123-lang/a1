@@ -1,2 +1,2 @@
-# a1
-研究生项目
+# Converted Vis-NIR spectral images of apples
+
